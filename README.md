@@ -1,5 +1,8 @@
 # Unity Radical
 
+A collection of resources aimed at increasing my Unity quality of life. Some of the other lists on Github are outdated, so I decided to just start my own.
+
+
 ## Particles
 
 - [Embers](https://gist.github.com/ocularrhythm/3558997bd4949da879b4a1ed292324c9)
