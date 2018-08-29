@@ -14,6 +14,12 @@ A collection of resources aimed at increasing my Unity quality of life. Some of 
 - [Datamosh](https://github.com/keijiro/KinoDatamosh) - Effect that simulates video artifacting
 
 
+## Projects
+
+- [Match 3](https://github.com/dgkanatsios/MatchThreeGame)
+- [Open Hogwarts](https://github.com/OpenHogwarts/hogwarts)
+
+
 ## Resources
 
 - [Unity Script Collection](https://github.com/michidk/Unity-Script-Collection) - A collection of helpful plug-n-play scripts for Unity
@@ -26,6 +32,8 @@ A collection of resources aimed at increasing my Unity quality of life. Some of 
 
 ## Shaders
 
+- [2D Water](https://github.com/valryon/water2d-unity)
+- [Gaussian Blur](https://github.com/PavelDoGreat/Super-Blur)
 - [Hologram](https://github.com/andydbc/HologramShader) - Great looking hologram shader
 - [Outline](https://gist.github.com/michidk/3b49362e21563a1d66d52f4cf4bdc7ce)  A- n outline shader
 - [Skyboxes](https://github.com/keijiro/SkyboxPlus) - Skybox generator
@@ -45,5 +53,6 @@ A collection of resources aimed at increasing my Unity quality of life. Some of 
 
 ## VR 
 
+- [ViveGrip](https://github.com/JScott/ViveGrip) - Vive Grip helps you to highlight, grab, and interact with game objects using SteamVR.
 - [VRKeys](https://assetstore.unity.com/packages/tools/input-management/vrkeys-99222) - Free VR Keyboard
 - [VR Toolkit Scripts](https://github.com/thestonefox/VRTK)
