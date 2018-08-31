@@ -3,6 +3,11 @@
 A collection of resources aimed at increasing my Unity quality of life. Some of the other lists on Github are outdated, so I decided to just start my own.
 
 
+## Assets
+
+- [Unity Script Collection](https://github.com/michidk/Unity-Script-Collection) - A collection of helpful plug-n-play scripts for Unity
+
+
 ## Particles
 
 - [Embers](https://gist.github.com/ocularrhythm/3558997bd4949da879b4a1ed292324c9)
@@ -20,9 +25,9 @@ A collection of resources aimed at increasing my Unity quality of life. Some of 
 - [Open Hogwarts](https://github.com/OpenHogwarts/hogwarts)
 
 
-## Resources
+## Math 
 
-- [Unity Script Collection](https://github.com/michidk/Unity-Script-Collection) - A collection of helpful plug-n-play scripts for Unity
+- [Linear Algebra for Games](http://blog.wolfire.com/2009/07/linear-algebra-for-game-developers-part-1/)
 
 
 ## Reading
