@@ -33,6 +33,7 @@ A collection of resources aimed at increasing my Unity quality of life. Some of 
 ## Reading
 
 - [Game Design Patterns](https://gameprogrammingpatterns.com/contents.html)
+- [Knights of Unity](https://blog.theknightsofunity.com/knowledge-library/)
 
 
 ## Shaders
