@@ -8,6 +8,11 @@ A collection of resources aimed at increasing my Unity quality of life. Some of 
 - [Unity Script Collection](https://github.com/michidk/Unity-Script-Collection) - A collection of helpful plug-n-play scripts for Unity
 
 
+## Editor
+
+- [Iintroduction to serialized classes and property drawers](https://catlikecoding.com/unity/tutorials/editor/custom-data/)
+
+
 ## Particles
 
 - [Embers](https://gist.github.com/ocularrhythm/3558997bd4949da879b4a1ed292324c9)
