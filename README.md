@@ -47,7 +47,7 @@ A collection of resources aimed at increasing my Unity quality of life. Some of 
 - [2D Water](https://github.com/valryon/water2d-unity)
 - [Gaussian Blur](https://github.com/PavelDoGreat/Super-Blur)
 - [Hologram](https://github.com/andydbc/HologramShader) - Great looking hologram shader
-- [Outline](https://gist.github.com/michidk/3b49362e21563a1d66d52f4cf4bdc7ce)  A- n outline shader
+- [Outline](https://gist.github.com/michidk/3b49362e21563a1d66d52f4cf4bdc7ce) - An outline shader
 - [Skyboxes](https://github.com/keijiro/SkyboxPlus) - Skybox generator
 - [Water](https://github.com/eliasts/Ocean_Community_Next_Gen) - Ocean & Water shader
 - [Wireframes](https://github.com/Chaser324/unity-wireframe) - Wireframe shader
