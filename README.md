@@ -56,6 +56,7 @@ A collection of resources aimed at increasing my Unity quality of life. Some of 
 ## Utilities
 
 - [Github Unity Extension](https://unity.github.com/) - Integrate Github with Unity!
+- [VRTK (VR Toolkit)](https://github.com/thestonefox/VRTK)
 
 
 ## Video
