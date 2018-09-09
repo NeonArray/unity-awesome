@@ -65,8 +65,9 @@ A collection of resources aimed at increasing my Unity quality of life. Some of 
 - [VRTK (VR Toolkit) `VR`](https://github.com/thestonefox/VRTK)
 
 
-## Video
+## Videos
 
 - [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA) - YouTube channel packed with tutorials
+- [VRTK Channel `VR`](https://www.youtube.com/channel/UCWRk-LEMUNoZxUmY1wO7DBQ) - YouTube channel of tutorials related to the VRTK
 
 
