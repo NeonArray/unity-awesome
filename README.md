@@ -9,6 +9,7 @@ A collection of resources aimed at increasing my Unity quality of life. Some of 
 - [ViveGrip `VR`](https://github.com/JScott/ViveGrip) - Vive Grip helps you to highlight, grab, and interact with game objects using SteamVR.
 - [VRKeys `VR`](https://assetstore.unity.com/packages/tools/input-management/vrkeys-99222) - Free VR Keyboard
 
+
 ## Editor Tutorials
 
 - [Iintroduction to serialized classes and property drawers](https://catlikecoding.com/unity/tutorials/editor/custom-data/)
@@ -16,37 +17,37 @@ A collection of resources aimed at increasing my Unity quality of life. Some of 
 
 ## Particles
 
-- [Embers](https://gist.github.com/ocularrhythm/3558997bd4949da879b4a1ed292324c9)
-- [Kvant Spray](https://github.com/keijiro/KvantSpray)
+- [Embers](https://gist.github.com/ocularrhythm/3558997bd4949da879b4a1ed292324c9) - Unity Ember Particles
+- [Kvant Spray](https://github.com/keijiro/KvantSpray) - Object instancing/particle animation system for Unity
 
 
 ## Post-Processing
 
-- [Color Grading](https://blogs.unity3d.com/2015/05/12/color-grading-with-unity-and-the-asset-store/)
+- [Color Grading](https://blogs.unity3d.com/2015/05/12/color-grading-with-unity-and-the-asset-store/) - Color Grading with Unity and the Asset Store
 - [Datamosh](https://github.com/keijiro/KinoDatamosh) - Effect that simulates video artifacting
 
 
 ## Projects
 
-- [Match 3](https://github.com/dgkanatsios/MatchThreeGame)
-- [Open Hogwarts](https://github.com/OpenHogwarts/hogwarts)
+- [Match 3](https://github.com/dgkanatsios/MatchThreeGame) - A match-3 game in Unity (like Candy Crush and Bejeweled)
+- [Open Hogwarts](https://github.com/OpenHogwarts/hogwarts) - Fuckin' Hogwarts!
 
 
 ## Math 
 
-- [Linear Algebra for Games](http://blog.wolfire.com/2009/07/linear-algebra-for-game-developers-part-1/)
+- [Linear Algebra for Games](http://blog.wolfire.com/2009/07/linear-algebra-for-game-developers-part-1/) - dotty bois
 
 
 ## Reading
 
-- [Game Design Patterns](https://gameprogrammingpatterns.com/contents.html)
-- [Knights of Unity](https://blog.theknightsofunity.com/knowledge-library/)
+- [Game Design Patterns](https://gameprogrammingpatterns.com/contents.html) - Free ebook all about dem patterns
+- [Knights of Unity](https://blog.theknightsofunity.com/knowledge-library/) - A blog with tons of great info
 
 
 ## Shaders
 
-- [2D Water](https://github.com/valryon/water2d-unity)
-- [Gaussian Blur](https://github.com/PavelDoGreat/Super-Blur)
+- [2D Water](https://github.com/valryon/water2d-unity) - A simple shader + example of a water surface with reflection in 2D
+- [Gaussian Blur](https://github.com/PavelDoGreat/Super-Blur) - Screen and UI gaussian blur for Unity
 - [Hologram](https://github.com/andydbc/HologramShader) - Great looking hologram shader
 - [Outline](https://gist.github.com/michidk/3b49362e21563a1d66d52f4cf4bdc7ce) - An outline shader
 - [Skyboxes](https://github.com/keijiro/SkyboxPlus) - Skybox generator
@@ -62,7 +63,7 @@ A collection of resources aimed at increasing my Unity quality of life. Some of 
 ## Utilities
 
 - [Github Unity Extension](https://unity.github.com/) - Integrate Github with Unity!
-- [VRTK (VR Toolkit) `VR`](https://github.com/thestonefox/VRTK)
+- [VRTK (VR Toolkit) `VR`](https://github.com/thestonefox/VRTK) - A productive VR Toolkit for rapidly building VR solutions in Unity3d
 
 
 ## Videos
