@@ -6,9 +6,10 @@ A collection of resources aimed at increasing my Unity quality of life. Some of 
 ## Assets
 
 - [Unity Script Collection](https://github.com/michidk/Unity-Script-Collection) - A collection of helpful plug-n-play scripts for Unity
+- [ViveGrip `VR`](https://github.com/JScott/ViveGrip) - Vive Grip helps you to highlight, grab, and interact with game objects using SteamVR.
+- [VRKeys `VR`](https://assetstore.unity.com/packages/tools/input-management/vrkeys-99222) - Free VR Keyboard
 
-
-## Editor
+## Editor Tutorials
 
 - [Iintroduction to serialized classes and property drawers](https://catlikecoding.com/unity/tutorials/editor/custom-data/)
 
@@ -53,10 +54,15 @@ A collection of resources aimed at increasing my Unity quality of life. Some of 
 - [Wireframes](https://github.com/Chaser324/unity-wireframe) - Wireframe shader
 
 
+## Scripting Tutorials
+
+- [Vive Tutorial `VR`](https://www.raywenderlich.com/792-htc-vive-tutorial-for-unity) - Really great introductory tutorial for starting out with Vive development
+
+
 ## Utilities
 
 - [Github Unity Extension](https://unity.github.com/) - Integrate Github with Unity!
-- [VRTK (VR Toolkit)](https://github.com/thestonefox/VRTK)
+- [VRTK (VR Toolkit) `VR`](https://github.com/thestonefox/VRTK)
 
 
 ## Video
@@ -64,8 +70,3 @@ A collection of resources aimed at increasing my Unity quality of life. Some of 
 - [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA) - YouTube channel packed with tutorials
 
 
-## VR 
-
-- [ViveGrip](https://github.com/JScott/ViveGrip) - Vive Grip helps you to highlight, grab, and interact with game objects using SteamVR.
-- [VRKeys](https://assetstore.unity.com/packages/tools/input-management/vrkeys-99222) - Free VR Keyboard
-- [VR Toolkit Scripts](https://github.com/thestonefox/VRTK)
