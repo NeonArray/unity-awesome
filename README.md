@@ -12,7 +12,7 @@ A collection of resources aimed at increasing my Unity quality of life. Some of 
 
 ## Editor Tutorials
 
-- [Iintroduction to serialized classes and property drawers](https://catlikecoding.com/unity/tutorials/editor/custom-data/)
+- [Introduction to serialized classes and property drawers](https://catlikecoding.com/unity/tutorials/editor/custom-data/)
 
 
 ## Particles
