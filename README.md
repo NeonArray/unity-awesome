@@ -21,6 +21,12 @@ A collection of resources aimed at increasing my Unity quality of life. Some of 
 - [Kvant Spray](https://github.com/keijiro/KvantSpray) - Object instancing/particle animation system for Unity
 
 
+## Pathfinding
+
+- [A* Pathfinding for Beginners](https://www.gamedev.net/articles/programming/artificial-intelligence/a-pathfinding-for-beginners-r2003/)
+- [A* Pathfinding in 2D](https://gamedevelopment.tutsplus.com/tutorials/how-to-adapt-a-pathfinding-to-a-2d-grid-based-platformer-theory--cms-24662)
+
+
 ## Post-Processing
 
 - [Color Grading](https://blogs.unity3d.com/2015/05/12/color-grading-with-unity-and-the-asset-store/) - Color Grading with Unity and the Asset Store
