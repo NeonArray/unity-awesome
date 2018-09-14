@@ -50,6 +50,11 @@ A collection of resources aimed at increasing my Unity quality of life. Some of 
 - [Knights of Unity](https://blog.theknightsofunity.com/knowledge-library/) - A blog with tons of great info
 
 
+## Repositories of Helpfullness
+
+- [UI/UX Considerations for VR](https://github.com/zite/ui-ux-vr)
+
+
 ## Shaders
 
 - [2D Water](https://github.com/valryon/water2d-unity) - A simple shader + example of a water surface with reflection in 2D
