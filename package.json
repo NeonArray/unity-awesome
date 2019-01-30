@@ -1,0 +1,29 @@
+{
+  "name": "unity-awesome",
+  "version": "1.0.0",
+  "description": "A curated list of rad Unity resources aimed at making my life (and your life) easier",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cross-env": "^5.2.0",
+    "markdown-link-check": "^3.7.2"
+  },
+  "scripts": {
+    "test": "cross-env ./node_modules/.bin/markdown-link-check ./README.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ocularrhythm/unity-awesome.git"
+  },
+  "keywords": [
+    "Unity",
+    "C#",
+    "GameDevelopment"
+  ],
+  "author": "Aaron Arney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ocularrhythm/unity-awesome/issues"
+  },
+  "homepage": "https://github.com/ocularrhythm/unity-awesome#readme"
+}
