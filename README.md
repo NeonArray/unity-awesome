@@ -2,6 +2,9 @@
 
 A collection of resources aimed at increasing my Unity quality of life. Some of the other lists on Github are outdated, so I decided to just start my own.
 
+## Accessibility
+- [Accessibility Wishlist](https://www.specialeffect.org.uk/accessible-gaming-wish-list) - A list of accessibility concerns in gaming
+
 
 ## Assets
 
