@@ -1,0 +1,15 @@
+name: CI
+
+on:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '00 12 * * */1'
+      
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: 404 Links
+      uses: restqa/404-links@1.0.0
+      with:
+        path: .
