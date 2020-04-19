@@ -15,6 +15,7 @@ A collection of resources aimed at increasing my Unity quality of life. Some of 
 
 ## Editor Tutorials
 
+- [Customizing New Script Templates](https://support.unity3d.com/hc/en-us/articles/210223733-How-to-customize-Unity-script-templates)
 - [Introduction to serialized classes and property drawers](https://catlikecoding.com/unity/tutorials/editor/custom-data/)
 
 
